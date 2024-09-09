@@ -14,7 +14,6 @@ body{
 .list{
   display: flex;
   list-style: none;
-  /* margin-right: 30px; */
 }
 .listItem{
   padding: 20px;
@@ -59,9 +58,6 @@ body{
 }
 
 .exploreFoods img{
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
   height: 350px;
   width: 300px;
   margin: 30px;
@@ -78,7 +74,6 @@ body{
 .row{
   display: flex;
   justify-content: center;
-  /* flex-direction: row; */
 }
 .footer{
   display: flex;
@@ -92,11 +87,6 @@ body{
       display: none;
   }
 }
-/* @media (max-width:800px){
-  .exploreFoods{
-      flex-direction: column;
-  }
-} */
 @media (max-width:700px){
   .row{
       flex-direction: column;
