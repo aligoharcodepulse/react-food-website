@@ -11,7 +11,7 @@ const Footer = () => {
         <FaTwitter style={{width:30,height:30,color:'blue',cursor:'pointer'}}/>
         </div>
         
-        <p style={{marginBottom:10,fontSize:20}}>All rights reserved. Designed By<span style={{color:'crimson'}}> Muhammad Ali</span></p>
+        <p style={{marginBottom:10,fontSize:18}}>All rights reserved. Designed By<span style={{color:'crimson'}}> Muhammad Ali</span></p>
       </footer>
     </div>
   )
